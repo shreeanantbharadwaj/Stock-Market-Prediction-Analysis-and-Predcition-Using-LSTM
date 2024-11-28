@@ -1,7 +1,7 @@
 
 # Stock Market Analysis and Prediction Using LSTM
 
-![Stock Market](techAnalysis-1000x500.jpg)
+![Stock Market](techAnalysis-1000x500.jpg.webp)
 
 ## Overview
 
